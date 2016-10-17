@@ -1,4 +1,4 @@
-class Cow //implements Animal 
+class Cow implements Animal 
 {     
   private String myType;     
   private String mySound;      
