@@ -5,9 +5,6 @@ class NamedCow extends Cow
 	{
 		myName = name;
 	}
-	public Cow()
-	{
-		myName = "steve";
-	}
+	
 	void String getName(){return myName;}
 }
